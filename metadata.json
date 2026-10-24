@@ -1,0 +1,6 @@
+{
+  "name": "Bangla Calendar",
+  "description": "Bengali calendar (বাংলা পঞ্জিকা) featuring event reminders, auspicious dates, and Purnima & Amavasya notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
